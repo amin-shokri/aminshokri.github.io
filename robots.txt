@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aminshokri.github.io/sitemap.xml
